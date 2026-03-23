@@ -1,4 +1,4 @@
-# Quick-Quack
+# Quick Quack
 
 **Privacy Policy**
 
